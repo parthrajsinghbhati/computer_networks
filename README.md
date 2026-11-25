@@ -1,5 +1,7 @@
 # Configuration Bundle — Private Network Service Platform (Phase 1)
 
+[Phase 2 final report (PDF)](output/pdf/Private_Network_Service_Platform_Report.pdf)
+
 ## Team Members
 
 | #   | Enrollment Number | Name                 | Role                                             | Machine |

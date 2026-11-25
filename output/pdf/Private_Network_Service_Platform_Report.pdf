@@ -1,0 +1,376 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document (opensource)
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 5 0 R /F4 19 0 R /F5 29 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/Contents 36 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 35 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+5 0 obj
+<<
+/BaseFont /Times-Roman /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+6 0 obj
+<<
+/Contents 37 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 35 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/parthrajsinghbhati/computer_networks/blob/main/evidence/G_wireshark/01_dns_query.png)
+>> /Border [ 0 0 0 ] /Rect [ 158 642.0898 202.01 652.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/parthrajsinghbhati/computer_networks/blob/main/evidence/G_wireshark/02_dns_response.png)
+>> /Border [ 0 0 0 ] /Rect [ 222.026 642.0898 280.544 652.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/parthrajsinghbhati/computer_networks/blob/main/configuration_bundle/backend.js)
+>> /Border [ 0 0 0 ] /Rect [ 158 604.0898 249.539 614.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/parthrajsinghbhati/computer_networks/blob/main/evidence/C_backends/curl_backend_a_tls_success.png)
+>> /Border [ 0 0 0 ] /Rect [ 414.617 604.0898 497.66 614.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/parthrajsinghbhati/computer_networks/blob/main/evidence/D_loadbalancer/D_loadbalancer_roundrobin_6requests.jpeg)
+>> /Border [ 0 0 0 ] /Rect [ 158 566.0898 236.021 576.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/parthrajsinghbhati/computer_networks/blob/main/configuration_bundle/TLS_SETUP_NOTES.md)
+>> /Border [ 0 0 0 ] /Rect [ 158 528.0898 209.516 538.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/parthrajsinghbhati/computer_networks/blob/main/evidence/E_tls/openssl_verify.png)
+>> /Border [ 0 0 0 ] /Rect [ 390.587 528.0898 457.133 538.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/parthrajsinghbhati/computer_networks/blob/main/evidence/C_backends/curl_backend_a_tls_success.png)
+>> /Border [ 0 0 0 ] /Rect [ 158 516.0898 269.555 526.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/parthrajsinghbhati/computer_networks/blob/main/evidence/G_wireshark/03_tcp_handshake_3_packets.png)
+>> /Border [ 0 0 0 ] /Rect [ 158 428.0898 222.53 438.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/parthrajsinghbhati/computer_networks/blob/main/evidence/G_wireshark/07_tls_handshake_sequence.png)
+>> /Border [ 0 0 0 ] /Rect [ 227.534 428.0898 290.57 438.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+17 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/parthrajsinghbhati/computer_networks/blob/main/evidence/G_wireshark/09_tls_certificate_subject.png)
+>> /Border [ 0 0 0 ] /Rect [ 295.574 428.0898 358.097 438.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/parthrajsinghbhati/computer_networks/blob/main/evidence/G_wireshark/10_tls_encrypted_app_data.png)
+>> /Border [ 0 0 0 ] /Rect [ 378.113 428.0898 483.17 438.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+19 0 obj
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+>>
+endobj
+20 0 obj
+<<
+/Annots [ 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 
+  17 0 R 18 0 R ] /Contents 38 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 35 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+21 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/parthrajsinghbhati/computer_networks/blob/main/evidence/failures/Server%20A%20closed.png)
+>> /Border [ 0 0 0 ] /Rect [ 158.7856 338.4098 233.3432 350.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+22 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/parthrajsinghbhati/computer_networks/blob/main/evidence/failures/nginx_upstream_connection_refused.png)
+>> /Border [ 0 0 0 ] /Rect [ 333.932 338.4098 428.1456 350.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+23 0 obj
+<<
+/Annots [ 21 0 R 22 0 R ] /Contents 39 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 35 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+24 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/parthrajsinghbhati/computer_networks/blob/main/evidence/failures/DNS_Failure.png)
+>> /Border [ 0 0 0 ] /Rect [ 210 680.0898 283.53 690.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+25 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/parthrajsinghbhati/computer_networks/blob/main/evidence/failures/DNS%20is%20directory%20not%20connection.png)
+>> /Border [ 0 0 0 ] /Rect [ 210 642.0898 299.037 652.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+26 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/parthrajsinghbhati/computer_networks/blob/main/evidence/failures/Server%20A%20closed.png)
+>> /Border [ 0 0 0 ] /Rect [ 210 604.0898 268.023 614.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+27 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/parthrajsinghbhati/computer_networks/blob/main/evidence/failures/nginx_upstream_connection_refused.png)
+>> /Border [ 0 0 0 ] /Rect [ 288.039 604.0898 345.558 614.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+28 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/parthrajsinghbhati/computer_networks/blob/main/evidence/failures/Wrong_Destination_port.png)
+>> /Border [ 0 0 0 ] /Rect [ 210 516.0898 282.531 526.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+29 0 obj
+<<
+/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F5 /Subtype /Type1 /Type /Font
+>>
+endobj
+30 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/parthrajsinghbhati/computer_networks/blob/main/README.md)
+>> /Border [ 0 0 0 ] /Rect [ 108.88 165.6898 180.2205 175.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+31 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/parthrajsinghbhati/computer_networks/blob/main/configuration_bundle/BACKEND_LAUNCH_INSTRUCTIONS.md)
+>> /Border [ 0 0 0 ] /Rect [ 184.9465 165.6898 267.6345 175.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+32 0 obj
+<<
+/Annots [ 24 0 R 25 0 R 26 0 R 27 0 R 28 0 R 30 0 R 31 0 R ] /Contents 40 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 35 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+33 0 obj
+<<
+/PageMode /UseNone /Pages 35 0 R /Type /Catalog
+>>
+endobj
+34 0 obj
+<<
+/Author (Computer Networks Project Team) /CreationDate (D:20261125152600+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261125152600+05'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Private Network Service Platform | Phase 2 Final Report) /Trapped /False
+>>
+endobj
+35 0 obj
+<<
+/Count 5 /Kids [ 4 0 R 6 0 R 20 0 R 23 0 R 32 0 R ] /Type /Pages
+>>
+endobj
+36 0 obj
+<<
+/Filter [ /FlateDecode ] /Length 1420
+>>
+stream
+xœíXMsÚH½ó+úHRXÖèIGÛ‹7›%[[•ËX`!‘‘Àæßï›ñ‘2ÚÄ«Ü¶(,¬™é×ý¦ÕýFŒl|˜ù›,ˆ®cº¼eÄŠ§Ä<Ë£øâŽD};É
+=—¹®‘Í¢>ïää‡äE´ ø‘Ñ¤³³j3‘Õ¯­¸Ž	–SžK–oûaèšéùlç
+¬¹.ÅêÞïFŸâÁ˜îñ_ÃñŸ¢K¢ÑøÏWñ ¾I“Áøó7}¸Šo‡ã»7?RüVã[uB‹Ù^mÚfGÓ¾uêY}‚À±Â0
+Al8öÀÇ5ÐÞ~ç¬Mž¶wyëPd(su¨/x~3ü4žÀÉñðýàäãÓýðóàî³ÛéùóŸŸú;òéÞ4¾kÖ^èø¦dÙ¡ãú`˜[ÆmjFÝ‘’k^	ºÕS¡¾\Üµ–‰ QÆ«i¡õ=²˜N0È	YâDc/p¥3a±Í0[çóa£9/94•9ÏH‰e¡ªF|;|¾{Þ+ÊŠÐåŽ„"§i±R´àÉpB_VÅ²´¨&ï·û	¥R‰¤*)É¤Èq­
+Êg2îÑÓ\&sª„Z œJ”ô.ŽG“:ž.ÏS,.+%Võ(bþ¶%Ì<`_„È	»C÷E*¬GÜãÉW‘§ÚQ<MKâp7)`M»³óüE€P Ì‹'íÀ*Jx2$ž—Rmzµe’em—[¯C`ÅZ¨Õ´~x’gSîÌóÂL¦²`»ÿªx™ð7æçõ3×+\À]8}DDÓ·+ò|«­h—0QÐ÷¶_€qº yBûaÔ¿Ÿ2ç;MÖp÷tÔ6anùÚf¨!ÈÙÏ#ˆ1¶e`oñ4ÏOk’±ÐT«yz–]¼Îî WE–-šL;ˆó5¦ë¬ €8Ÿú?Yêp‚ÅU5Wü‘&2ŸÍézŽ§¡‘«VPÏfø¸ŽÝH^+Xw<Áà%-•\pµÑE£T?jòòr¾¢ªŠØ4òÙ
+ áÓ±íÈoä³,Í§>E:=Ü™˜Ò™<EUÍxž ‘F§þï>¼—kYÑ˜ç¼‘ÛV°v¹
+±ÒÈm+Xš[Ü^ïÚÓ•áV7«Õò_7h~Â«§¿yÊ×¼¶µ£Õs‚FZÛ€Ò¬zG¬^V·úåð÷ø>v¬!TàpÛëÊßòéÉ´2â_÷2Ûhÿ/´m÷ ×¾bí©ˆ[™§xèÊ&áž*ˆU®ÑYåCMiÁZÊª@U-õVÎH¹Rë®åA2ö¨Âäøfdx×C<'sžÏDÙ;@% Ð=Õ|/çj	h–6Ð¨>Ì­ŸNeé	éxEOè¬K‘ZôÁ([¨¾ä+Ôj‘O¥Zˆt+/ ŸfBpÄœ¯e¡Nš—^~Û.š­ÔV!–›¼âÏ°+×:ôr•ÁkœŒò,Ó¾¢"‚½ÌD(Ç¢¾»œZ«Îž)©”¬*ý¯qDó6å	6¤aÁ‚Ë\+ÛaV«ñ6î>‹ZË¶±9¥hn*­ÿ›`Yèý/[_'/G|Ö ýœWÙŒ‹¥L~µ <ß%áu+£ÈŠÙÆ<!õÁUækd#*Ñ¯ÖvnS|­ lÏºŒV2KMK])*k‰£LÒt&hE…xM!¶‚PçQE¥nÃØ@#"Wy³|lCœÉˆ¯€[.³•Ò1ñlSÊr÷rAWmÝ´ö±=íç´óßõýÐÛI|}`ïbõÏƒj,V*%Á$ÃYÛ4­÷°ÃJŠ)}é–8Î¢ç•Ô¿ˆ¾¼Ùê#ñpÚg5Y5E½}Ô¯HH¿¹+ñ4ˆú…Ð¾¯¦Uù}¤Î?²â7¤endstream
+endobj
+37 0 obj
+<<
+/Filter [ /FlateDecode ] /Length 2350
+>>
+stream
+xœ½Y[w›H~×¯¨Çì¬ChškÞ½“™\<¶2ÙsöìFX"A  òåßïWÕ–dK±½ò™ºë«®¯ª¨E.þ”üÏæDïÆôæD‘òh|IÊw| ãñÈ‰’Ðbrb_+á˜¸*	éì_£Š‚˜ü„æà%¬œ˜Å$NØKÑ^€	ŽQ¾&'pƒ8ö¨™ò|eU4­i<§WGŸ?ž~ŸÑ§ãñ×Ïgœ½!:={ÿ×áø¸¿HçÇg½?:¦Ó‡ã“ÏgÿAão4þ…ñV¥z±£\¿íz+Ó~ŒúY¡OQä9qœÄ0n¸P6½(À1bm7”uÉgyoN<JÄdš·úêðìè·÷ãã£ñ—³ã ?ñ·¦ƒ0Ç=À.*2vòôVHÏgL/Ìq½¨ËzzKi5¡6o®Š,§¢ºÊ«®nnwiîŠjÍ%F®À³¢kœüŽß·Ñþ‹k{Ï¨÷æD“rÅž¥ûá«÷°ñÄSAˆ‹“ùÃ’@­F…šæ#æƒƒÐ‰B9QnBaàx:4CljÄì®”r]™Û¯Q./2Ç’ùXŽ<+A³¢v…ËB2h²,·‡1S-Ze£Ùèò±°lß{Ð(÷®>Žú˜âHÜwœ·een×ˆý±%ð¶„£²æöÊ.‚ÛK|¥6]<†—
+è<Í>Ÿ#³eSâðµhòv–6ß74x*™
+A¥<äàeó'–œy	HÓÊØZÆ>¬,#Ì(íÈÌÖ…¼Î3ƒ²\[×À™Šõ°ÎŒ}™«¡´#ƒ;¬óxÑ÷E™V	~±ûÇ4Ã•7ÄGýât²Nù´)æisì‹4û¾\Ð¯ŸÎ÷À¶/Ó#ÁÛs†¦²ªÄ/$x…gŠÏ®6<Kð
+3¾_ÜÌcôKó@ÂXÁÉœEŒ–/N±gfÖƒ•«iQÝü-Ûþm<>='d\Wô6öýM{*Á:BžA°J1>N|”I,Væ¡rl,#­d&´ÌîW)™«å˜‰t•#F†5ütëÌ˜åÊÈU27èaûePÆjú¢$kÖÜs–5X~‡XÊñŒ>|q¦ÝýS=Éo-1åôV»®ÚÑÚµDcpG4N˜IíDëÀò"Í a•åÈ’q0Gî
+Å„…v‰Ë¯,½¬_¬~/Noàìú+ì¾û[ØõÝ‡Éõ6Ðï×±Wt•TMÈ‰sR`	®æ–°Å1$ÉZ	ÅˆU3 £´NÒÈÎ×­±qõg5¸òÇ®cóÔ8§Š)žm„ÀÔsØ–æé¤)b3î±ËŽ½ŒÕ€g-©üðÅLéúNìÅŒˆ-ñÀ§·Áæ3áñfà‡¶ø‚ö¢ÝÞ´M/\+A©ð™"x%d„îOdl#C&FF€:D1¡f¤_Š­CÇs¥Úô†§õ³™¸³#l¸Ï4‘€}ÚÀ^|ÿAøðöÿ| •õÂÕ†ú1ïðœÀ´ÔÈÄFGóxuRL—MNÊ¡õ´ÈÒ’Ngi›£Xëúnûç.žºYNeÍs¤Œ“6|Rµó´ýA“&½ìZH)ª¼¥vV_ÛîMf-šúæ–šüÇ’ÛºEÚÍZ§ßè+¨hÙb%c´é<§IÞÓŠ®‹nìœó¾çwvµú:Š÷Â¡â¾zzí…ÐŽ@±“ø‹Õw5žÈ‘¨pcâ¤ÒßNÜ§‰“ú óuü4okým„ÚþÞû8Ý¿ì°×B¯¿Ó1¾€üômµnä=KlÏo“/ê¶ØùªFIü\®ëæ{»H³ÜøãVªâ98çÆ·û%‘u¼G8ŒÚ$‚Ô.ö‚¢Ð1:È&a¸“=b%X»ŒIÙXŸ“6ëëL!
+÷Ã”·‹©½ ˆõBG¹ñN¦ö‡åùx.ù;™Ú˜yŽ˜ý~k¾Î—ì‰¯í àk/(‡”N&MÞ¶´(‘Œfu9É›ÔíV¨‹åoÏÌœÖOÃRÁC`}C&¶<äï¿A{õ“Ü¡Û•p ïžÌçÞr¦RûíF”HÜÖ*›ž°ÙmyoÐÇïÛÈ‰•ŠP3;±)rî>™¡Æ¼–†«i.búrü~½&C½¶yih¥”{ìþ|'ì·Ê$vaþ€„â²¯FLêéò9(ír©Mùu¿ ÝuMiÖ-Qé^Ø—Ö0á"¿¬®Oe};‡yz_±ƒß{÷Šå¬®.¹ÖN»¥´øQ{÷¢ŒËkÉM}F±{U\¥4]þ¾Õvy:éWô3(TîG,º™Èâ*¼•ylêZ.¦çRŽOSiµ²›á•“|^ï¬¬½HíŸ˜™5.ª.o.±Ãj—UŽ&¡É/‹›¨u™.ËŽ¦`é:5ßþ>{„þ”£p¥¹©^é:oîˆXVéUZ”éEÉ¦»X.pkX&ÏêfÒ²ýÊ2Ï:¾;§Ë¦žÌ£]åMqy‹®¥h®‹–]wÓ‹¢,º[‡°‰;.8boœ›oIKn^&5UuG)hR´3Jáó9¨4»Ýmwßÿ>¡ò[˜<“ÿ†¾,±¬©Û¾é‚\=ïRDEÉ3ÀO¶:ÀáÐ#¶ßa*n¿1°]]ÂìB.+whÉ’ébá,Ò¦›9’£äJ±rñ(\VT/ò
+r~ÆG§‡08…ê´¢|âó¡ÚÖËÍÃ¢n ¡è|2Í9æ¸:w¨òiÝðÆ–ø=Ü²-ª)ÏPfuÛUhac“<kn1soz–dÕC[å9	ÉËÍ¡Â!ïïÝº›Á<‹ºOì–MÅ‚›z9Y<i™«Ï]H#UW\0(bàß¯mÖÙétJ='ØwpÍý;oZöˆË†S!Š-‹ÌdÆ2½ÍGLwè`	c8Y—ß ò*’^ÔÈàÓáƒeàË¯§¼òŠ“g×¤UËlÐûÓ•¨´¹%æªíÕ°!`T8m¿¯O
+¦àL ÑHAØ†	'“;Ê¢ú.¤q9t`œ¨¯‘r›•[PÝ.'Lõ¢AÖïìŠ;§ÍÊz9Y7Q²¤2­2PÊbWïrvç;í&¿4ú§'2endstream
+endobj
+38 0 obj
+<<
+/Filter [ /FlateDecode ] /Length 2202
+>>
+stream
+xœ­Y]w£F}÷¯¨3/ñæH˜æCÀœ³¶lg¼ñxK“ì>¶ e# Hö¿ßÛèÃ±°œøøŒeAS]TÝºu»†‘‰¦‡K¢‹]3bÍÄÃ¡Ù-]ÍN/™žO†ïØÌöð˜,Ñý/'¹>9-ÉÅü‘Òô¤µã+31ê¬Ø–‹†SŽM†kº¾o‘|PëYë
+¬Ù6Í–t:þöuò}vuOwW³?¾Ýÿ:%:#šÜßü~>»ê.Òôêþ÷›ñMnÏg×ßî¿þ‹f?hö³Úo×ªåÌt:Ó¦½³ìÏ“nÕÈ!Ï³ß|„7L8ë,ÏÅ§§¼}á¬IŽ²wvmQ Cf«W=|9Ÿ^ÛÙã7üìïc»;û¦oÙ.BÂ¼&DV³ëÁÝ,Gmgùz»‹:I#âYDEEb•D"EŸHÂqdxÂf#r¼€†Öˆ¤ ÅÏ'Fà¸&ž640|z#ÇcÝV`6Ø~û PEÛÛ®õâö[ö˜Ógy£÷ÙcX¨pÍ×ìù/ï¾a®³¶ÙÞÔnÒ§+ÊÔð°ÚJØÉBå59Øx°—r{`ÚÂéŒ—“8ËæÍ²HÅRd¯’<ÓpzGd!‚XÄ`"RVà0ö×‚i÷f{{Ÿ£²oÏïz_ÉÞ·s_Ûi"“¯ÝLVÉ<%q¤,ÊÃZ½»ˆšÅHa¦tw3¦$[ár.ŸÛúJä:)Iö@K^ÉäI=ß9~Zˆ,Â-£/bà ±DìònÚ1‹b1ÍÛª
+W—ä8†Éº¯ŠÀ3P„a¢Ú7K˜e®ãì.z%Üwg_ãO:…ßôg-ä³öþpèT]¯:lIŠ²È³R¼m¬Œó5UÈ./
+ÊøR4 ðGÁNiÐ8Moe4OWBR)ª
+	-7FiTëœ¾ò°¤²J “Lˆë
+.°ºšéƒ Ü€À¸P„ŸEe˜o‹ƒ€®ìÁrGÆˆyÛE¶–>ú LcÔNDwy$Œg^Ëð˜<
+¹BÝžéôñ"9+AZuIë¤Šé¿Ã6(FrÚ5tþNü€.6P(ë0hÀ0@—Ð%óú!Ö(SÀêEë} 
+.5
+Rž…€i/÷Xx>jŸ}H†“§a›°–Tè´2ãªühÞ¦KÕV•,!KEÔII…Ìç‚êRyZ§ï÷·j»Mª†À‹h#`ež&eŒ¢¤ƒÏkÝðò,}îM{gz5]WH×ì¶—·ƒ·òd¹mž\”+”Yû½-W<í{ÛEV=goÕN²ƒ×=˜mË;:ÛËÇPÈJqf]¼å0Á–4ÏQ´ŠÈ#—MêŸS%ë²ê-äoh¹Óé-åuUÔÕQ¥þëã¼¬”+Ã9/E££ë£b ˆ†ªà›?°FY¼f>y•`ýÆµS`„˜aëpHŠd…Å_f³ÉÄ¿ijªƒW4|ìÃìè# {Èª)äa|X¹Î;ÛZ­—ûÝæ!O)Æ›§hÀ
+¶DªZfA÷î_OCþ þ=2uŒPûW3þ0PÌñ
+TEÏw%Ù8õ-r©®o‚áÆŠVÂrMå†o(| WkPv¤ssÙÀR_lš­¸LxV…Î)Ert„6e}ªB¥7à¤ˆêmiø!óÒ5iÎ‹4_÷åË;¶!@âp¸¯\rvhDñŽ·¿†Ù®í,Bö3x±Ê²Lƒ1{G`€ª˜÷íg6žh •1|»ÁúxFä™Ú%ˆHT<Iÿ±†â”ÏDiÛ´%ŠxÅß4­ii\)Š¼LôÅß2è²P
+‘Û¸K¾¦À¼×¼¤:ã+¼šê«jç?ø÷ãÄðÎèðÙoŽÑÛù‘áÒZƒÍTç¢Mñßþ:±°ÑÈº‰ÅË[{S›wOSÔØõãéú¹\Õ©–pmùöÍQìý9Ê‘•ëè©Ø²zš£p}ÛœiR÷ÂÀkÈ-ð|´uN­$ÏJêìÞ\’ù4bæ|sj%Ï°±7S‚(¢ï—*rtd×ô çª|“f}üjÖ[÷£Ï®= uœ„ñ–jõÝ‘ÁLA!uNùl€_Mk
+ð®ºéMÿw7P¿†çã_7»¨øNsQ­ ®¯·.¹Ž¹=€ék¾ãØ];•)À²V[æ™€¨€Ï;³ˆÓ¬^Î…ì¼OEªÁ*E
+ðƒÕÆ¬é¹mEãÈ"øÊ£•ª@-;èÒ¼^,Ôy¯à½g75ˆpþFÂmç`Â'2ÿ!Âj_ñlõËi‚ŒJÑAæÔÈ«Mø‘¦¹îW¨zÐ*6*ÝÃ¦êˆ$›û;Šg—zô(ž·¬öÐ…ÇúÏqRÄBNt­|‚Ãèº(?L4ÆV»Äb{î„L§þ[;ZPÄ(5%ùJT¨M+¥ÔëÈÁåµ>VŠðXñ4‰šWyy‚ës…ù{´XÌ…âÚÎ›ÏvFè´QÇ|ïŒ7Ú-^ôAc¯:ä«: @¥a˜P\UEùùìl8ŸUêµÖznà´Ï¿ÐO7‹áJrøUÉ¨Ïô)Ì†+öé§÷ØÜè+TÏ<çÕ3ðÕNÌù/T_`l¦m6“Ç…eÜh[ »Rbr®`¡I´SÚº†U×Ô"UÐJpîAbOÍ„D4@Ån´¦’§-¹n§IJvp*øsšóv9‰q@ ‹"‰òh¸Û(UduÍ~Z1ÃÄW¾üdÐ…R¨êT7Ê¶epÂ!7ïà¡ÌËr§Ý7Ã4šc;Èæ_T¢Dâü¹ÓÁ`0ø5Ñ„Y6Ã›Véð¢BGf7ƒäæÈ®$}®j\*"ÞãÚ­…Ì—Íh.¬j-Æwm¼ä:ù?³ÍÍendstream
+endobj
+39 0 obj
+<<
+/Filter [ /FlateDecode ] /Length 1900
+>>
+stream
+xœ­XÁrã6½û+úèlÙ’¢$êèqìÍÔzf¼¶6»·DBbà¤eý}^ %%¥jãr•-‘@w£û½î'ã'q¿‹Šèã’>Ü'”¤´\S’E-ènyÍ³xžS”g“d2ÇßEœ,fôôÏ‹š¦9eªhŠø éù"ØÉÙÌ"šV&é¢¦²	EÓxšç)µ^Ÿ„P`m2¡eE—·_??þgy÷D_î–ÿýúô¯g¢DOŸ~¾YÞéùîéçO·wôøp³¼ÿúôùZþJË°¿c«i%q6˜Ž³£eß.†U³Œæó4ÊóEŽtàEŒ`óY:Ÿâïœ£ý]°1elïÃ}J—²	õòñ§›ç;J|ü?§~&Ó#?Qœ§“)R’Ì}ŠRïõ»ÞÒŒÝ¥¹s÷$­ÒJÖ…¤b+ê´$ê’´m­êÍÙ0âÙß	ƒÏ‹SÏ]7(ÏGQ¼ôýøå™Zi~•í9÷³ôÄ}Â ËàØŠ¶t‘%És>ËR•‡j¹T$SÃr+©lÅº#Û‰¶C"ÈÊÂ em+a¿‘©é³(hâR´Q¯HÖÊtÛ1\KlXQIMãV‰F‡¸¬ð9µÝh¥­”£éµÒ°ÖkeIv_wâ^…V¥è”©±ƒ4üÑZh½Bž¨íkRØ ë&#zîLÃÞGgM«*Ñî¯Ü·^ÚÑP_¢ØÂ¨íN¶‚é7[uÁ(èÆ£ð¾Â´%í¶ªØ"-†}Î@9xºŽ£8MPsZîèû;ÓJg2„ÀÁ—
+æº1–Î¸+_q+ÑŠNê=!ÝkÕV–òÏNU!#z
+ArQŒÎcç´”Zì‘®vO«}8IØÕsú\%Ø™äŠ¼
+¥Å
+¨ïö$ªªKÉyäMç 7],Þïwú_8¸lOÁ³A$‹÷G}(Ô˜&ÔÄ(‘öNY š&ñuàƒ6…Ð;'ÙÎÕ4­Ú¨/ºØÖ\ô§sk˜Q§ºª†Ë2Bµ¤5^o„jc ÂN ÷º;t 2Iæq¾pào
+gs«pgšÖº·Û#p–jC€'ÖàŠÝš'CrÓ3êù4LÍéðq:¤k{ÛÉj<³µ–²„ þAâ#Þ¹"z`’cK¯9ùÈÂHpF
+BéZ£-!¶1«Ú 5”¯Êô\²¬;D++¡Ð(@}”°ì[Îy¥6­ï*ç€–-ÒwCû-ÐþìÉŒ4í¼Ÿuž¤ïrÚÇûÐäã:vcÚÐŽ`Q£W}BâW­`6¼ÐÚhmv¾³Ër#¯m#µV…kÖVµTx;Âï²í$ÜNªx¹"ëÛÎx³\¡ñD@ß‘ ÔÆ‘@Ëî(]W€C;ò‡]ØÑ¡³&`Y3zÅbë5£L“ÀØÐ¯ ŠB÷¥º³„™ã=ø~Ë˜Ùá„£;çæMÙŽß¸H$Úí³xeZ Ÿ~B¦Ù’"Ñj½÷Ld`oê_q>w4au:^.Ý®µš¸–ã«Ñ{Þd½6m!+öp4$Ï!n’ÿ-Mu÷ƒ˜ái³Fœæ5tCîòø¼?H<=+"l^dÑ<ŸÎ I£	Ôs2[D“l’úï,¢kJñl1<ªhr$Ù°%èì?RÇÓå˜@ß'ŸgÕÎ´/¶`¶«À@® %+ñö§À¢‡›Šºa¨›Z:Dq!¡|^å0Xxé/ª¤é» ;h³cfro³ldX€OÈ/h¶«*V˜^V$:ôäO˜p;®I&ÌcäË>Ìc–€îíŸiyñkn£rê}K;—0?…v‹ÝËsÆ¸[¹î-º—6›¿tÂ‡2h÷¶€À¬1Ç:{¤
+¥cw7öCW/ž‚¬Ü {C"k¹K¼U+/¢~/9Ñÿ¼&÷2ÊÒ¡·#¥pTŸ¯{æ°ÞHlâF¸B@­ãýÆ‘Ûi®[¨åYæ¦óüÝ˜{æÞú!Ëº^:ŽËsA$‹ü}Öºù6Ð!oÐµž_á’x½.¤8Ü:º¶‡è(¡lWãOùýEe0fóòÖ«í¡'û×Ã,Ü2QOõÝ`u[³Öwdg$»V}|;ñu"ë<i ñ;¥!xÊœ2ï<k?{º0Dx5àêv‡[ÈvÐœ}Á|í;Ù€éqœD.ü­Ô€®Í±ú£ðÃÎ
+OŠÑ™‹u$/CI×+ÉéQ¶â¼–éHô¸£ç%Žo'cÑž|2OÞð÷ üƒØËözµ¿Öü2=2¾aº¿ø@’&ÿê'ßGýí(‹¹þqEÜ˜VZËÛGáþ†œæY6¹:è–åÃó²ÐþÈª<ˆ‰ºA˜¨šÕœN?-—©®ÇÝâ×Ã ÷ÚÊS&¡»ÙqÐA¡œT¼ªÒý[…/àÙ³+½ô·Ã%©Tg-Ï×#YyÃkQà°¿Võ¯îx€ïgä]ü¼eÈKendstream
+endobj
+40 0 obj
+<<
+/Filter [ /FlateDecode ] /Length 1929
+>>
+stream
+xœ½X][£È¾÷WÔ¥gŸˆ|Ø»Œ«»îÎ8ÙÈ™½n¡IfhHÌ¿ß·ˆ‰cb<“9&BwUu½õñV[dâÇÒã‚èCD—7Y6E)Y®áRô‘®£3ÃÇ¦¸ŽåøøM+Óì÷³’¼€Ü
+òð_rº?ëåJLhŒ)ŽíaáB”ëá™^ØTÏÕz«7Ò‡¢‚Î¯>šþ7ºžÑÝuôÏçÙ_÷D—DÓÙí—It=<¤ûëÙ—Û«kš~œD7ŸgŸþCÑWŠ~Qú¶¥Úa™î Úô¶–};V]ò}Û‚0€;ðÂ„±ÁØö=|úÊÚÆšä*y—76…ÚeŽ:êù—ëÙíÍíÕ$ºý|·¥èoüì*s¼-e†ØŽ¿X~ç'»S½W¥í*v uÞ°,okN¬dùZf_âË,áeÌ)+þtÈ7<Ò”;lètý.ì1AeúË™ºž‰Ý†ŽŸþØõ­ÍÓî68A¿AF›×–2`çõò,(> /èÍóÌãÄ9Ái¦vLçx¦F×îyËs8ZØùlcÁXÎn|ØÛXíÅÃrÿ7¹3‹:á	N!Û¼!QªxÜàÑ_°e&êýA@Vàôð[½›l$¹	·Ù¡kYßo„µcÄ?µ(çôÛÝ=I^/ù~…ê”@Ø“iº¶`cxZ YDdÿo_džM±<eKgÂÆ¢×Ò—Î•iiŸ-¢mª¶Ñ&î?4“\ˆRJ9Vä8Ô À )ËjjH¸UÖ,H¶qÌ¥LÛœn§ÃÑÏkÎâ{Èò¬YS#à™ŠÕ¬áT²"ƒ·ÒZ‹²VÙ‹ŒC0¹ÞIaªuÔ†ÉqŽ…)à8i/X’ÀéòHåB<¶Õ€±¢$j! Ü,Êg'[H)gPÌÊkQ^Òj?Í‚ãiÓÖ%j!d£Ö•¢é"]¿fU•g1Sâbhú'Àð‹9Êü„d#ªŠ1ôŽÅÐÓÞÉµ’|<sÂç5z—‡f} ¯òŒ—-8Kx-ß†Xu6½êuqå<+Ÿˆ×5Ê_.æG„L[U¢nTd4YÙ[…g+DkÑÎôAéÜŠ‘´•,'DÐäÈãðT•‡hyÎï-¶ÿšÞë¡qô½D1
+òÐÇu­R¡Î“9š%œ¬ý•m%Tºb+ÅPY¾étºö*ø ¤lTèFÑ'š,Ïi%êGƒ®XÕ¨Â¬üES¥¾‚®·!7kž«Â™5ºÞnw niÐèkÚ³õ+ó—Hwöóƒ‰y
+ÌºÚšp¬Ô¥€T|Í?ºÚhƒÖéê«Žüc‹kÂ`Ñ¨Ö%kHw6ÕÂXWÖè{”¼W…qÞ¢ÏiÀ·*Ï$ GÅvsŒ¼sÑkÈü‰ß¯gF`Yþ:"÷<€­´‹LxGÑ8S{åïW8nào8îËWcóG˜¸âý@ßï2g Ýhôè^ÄÒ†×ú¤y†.Q·å!"nßAÄ­Ð|ÿžiïñïxõò¾cÚ;â~„Wo˜á;øïÑxÝ|‡Ðm8%[îgí§bf'w]±ëÚ¢á¨ŽcgÇªíŠÄK½S^_|b1fEÄkÊâ®äÞN—.5¢^¨ß]e¨Ç•Êú®pè…jƒQ÷ær“ð¨ÍJôç‘?ŸMkÑˆXä»út3ú1ÿMtx$TÅ¬‚kô8Ö¬ Ëo‹0›EWS’¢­á[]w•ª%¢¢–’u¤ôö·ÑÆsUÞÊ¾²bRàLõYÕï1 š—Žéj@~:™. ™lBÝoäÿ}DYM¬¨”?ë¬`õÌ¾m±*µ×#ÁØ\‹mšYÀeÏ´ &­LbÍˆ@¥º~—f5_1}ž‘¦ÝõÀAGvÃ/»ú­ØÎsÏÐÔ'nµñ§3Š<ÌÃhÞŠæw¦ÐëÁ¬hçÅ@;/´Û{*¥<£š*þ]ã#”ˆ8oUô”¦{ÌÙš×Ïdl^
+™ÁÃšË©q«»Èïªˆ‚äçò ÛÛËlçt<à>'‘$Kû¡ðPë·vïàŽÅO_°}?5ô ÂTucL‰<~”ÄŸxgª~h€â¦Å»;‘pã«¤|Ÿ#ð£¾åøÖ<Å¤+»«Ä%Ë³„)H“RL~Û`*×eÃžŠ VÓðMoF4´±á‘]ôÍl¸…’ZGÖýF	¯r±.Ô*•YÛN;^ðšg¼±ÕÚu±Fßh;ÝôjÛ6½Í£nÈµl„gìm­´MÇ;îîÊÌxAºõ ¥½÷ÝyÑ¤ºLHy­ÈÅ¯t…JÕªBsÇ5
+Iê× ›}EžŒº‘÷òÆÄ£ÏeK5õ;è¾ŸZ§˜àÂ¢ß°±ç|„ÞÜeã‹Ð ¯‹ª¯oÏ¶Eò×C36&¼4›·u7Ý<ß.8òè¼¾Ò \´e¼P£—o	ÜT¢<+ùÖewŠ‰càÐ³º†‹óä:úðõ±º9ùôF2"©Q÷åF‡Ñ%üÝÙö2"éì_Q£kendstream
+endobj
+xref
+0 41
+0000000000 65535 f 
+0000000061 00000 n 
+0000000134 00000 n 
+0000000241 00000 n 
+0000000353 00000 n 
+0000000558 00000 n 
+0000000667 00000 n 
+0000000872 00000 n 
+0000001120 00000 n 
+0000001376 00000 n 
+0000001619 00000 n 
+0000001885 00000 n 
+0000002162 00000 n 
+0000002414 00000 n 
+0000002664 00000 n 
+0000002927 00000 n 
+0000003190 00000 n 
+0000003456 00000 n 
+0000003724 00000 n 
+0000003990 00000 n 
+0000004096 00000 n 
+0000004398 00000 n 
+0000004658 00000 n 
+0000004931 00000 n 
+0000005163 00000 n 
+0000005408 00000 n 
+0000005682 00000 n 
+0000005936 00000 n 
+0000006208 00000 n 
+0000006465 00000 n 
+0000006581 00000 n 
+0000006807 00000 n 
+0000007077 00000 n 
+0000007344 00000 n 
+0000007414 00000 n 
+0000007754 00000 n 
+0000007841 00000 n 
+0000009338 00000 n 
+0000011765 00000 n 
+0000014044 00000 n 
+0000016021 00000 n 
+trailer
+<<
+/ID 
+[<528c8184ee7def8d4fcad8e2342c7259><528c8184ee7def8d4fcad8e2342c7259>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 34 0 R
+/Root 33 0 R
+/Size 41
+>>
+startxref
+18027
+%%EOF
